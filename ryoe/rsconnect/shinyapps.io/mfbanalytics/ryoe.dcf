@@ -1,0 +1,13 @@
+name: ryoe
+title: ryoe
+username:
+account: mfbanalytics
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4085327
+bundleId: 6301586
+url: https://mfbanalytics.shinyapps.io/RYOE/
+when: 1663168234.98279
+lastSyncTime: 1663168234.98281
+asMultiple: FALSE
+asStatic: FALSE
